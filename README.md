@@ -6,7 +6,7 @@ Este repositório contém um acervo de resoluções para desafios técnicos e ex
 
 Você pode acessar a página do acervo de resoluções clicando no link abaixo:
 
-- [Acesse o Acervo de Resoluções](https://seu_usuario.github.io/seu_repositorio/)
+- [Acesse o Acervo de Resoluções]([https://seu_usuario.github.io/seu_repositorio/](https://allanlucn.github.io/DesafioEstagioTarget/))
 
 ## O Que Você Encontrará
 
