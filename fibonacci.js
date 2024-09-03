@@ -34,7 +34,6 @@ const FibonacciUtils = {
     }
 };
 
-// Inicializa após o carregamento do documento
 document.addEventListener("DOMContentLoaded", () => {
     FibonacciUtils.init();
 });
