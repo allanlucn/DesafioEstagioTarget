@@ -10,7 +10,7 @@ function calcularSoma(indice) {
     return soma;
 }
 
-document.getElementById('calcularBtn').addEventListener('click', function() {
+document.getElementById('calcularBtn').addEventListener('click', function () {
     const indice = 12;
     const resultadosoma = calcularSoma(indice);
     document.getElementById('resultadosoma').innerText = `A soma dos números de 1 até ${indice} é: ${resultadosoma}`;

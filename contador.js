@@ -4,7 +4,7 @@ function contarA(frase) {
     return count;
 }
 
-document.getElementById('contarBtn').addEventListener('click', function() {
+document.getElementById('contarBtn').addEventListener('click', function () {
     const frase = document.getElementById('fraseInput').value;
     const letraACount = contarA(frase);
 
