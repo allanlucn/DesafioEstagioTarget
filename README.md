@@ -20,6 +20,7 @@ Você pode acessar a página do acervo de resoluções clicando no link abaixo:
 Este resoluções foram desenvolvidas com fim de responder aos desafios propostos pela Target Sistemas.
 
 **Nome:** Allan Lucena  
-**Cidade** João Pessoa - PB  
 **Idade:** 21 anos  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+**Cidade** João Pessoa - PB  
+
