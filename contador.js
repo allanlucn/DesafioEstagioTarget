@@ -5,10 +5,9 @@ function contarA(frase) {
 }
 
 document.getElementById('contarBtn').addEventListener('click', function() {
-    const frase = document.getElementById('fraseInput').value; // Obtém o valor do input
+    const frase = document.getElementById('fraseInput').value;
     const letraACount = contarA(frase);
 
-    // Atualiza o parágrafo com o resultado
     const resultadoElement = document.getElementById('resultadoContagem');
     if (letraACount > 0) {
         resultadoElement.innerText = `A letra 'a' aparece ${letraACount} vezes na string.`;
