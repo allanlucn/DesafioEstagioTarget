@@ -21,6 +21,6 @@ Este resoluções foram desenvolvidas com fim de responder aos desafios proposto
 
 **Nome:** Allan Lucena  
 **Idade:** 21 anos  
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Cidade** João Pessoa - PB  
 
